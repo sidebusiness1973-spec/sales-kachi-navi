@@ -19,3 +19,9 @@
 ## 更新について
 
 ホーム画面・カード・端末別アイコンを改善した更新版を準備しています。iOS・Macの更新ビルドはアップロード済みです。掲載画像の更新と審査提出は準備中です。
+
+## 開発用ファイル
+
+[ソースZIPをダウンロード](https://github.com/sidebusiness1973-spec/sales-kachi-navi/raw/refs/heads/main/SalesKachiNavi-source.zip)
+
+これはXcodeで開くiOS・Mac用の開発用ソースです。通常のインストールには、上記App Storeのリンクをご利用ください。
