@@ -25,3 +25,44 @@
 [ソースZIPをダウンロード](https://github.com/sidebusiness1973-spec/sales-kachi-navi/raw/refs/heads/main/SalesKachiNavi-source.zip)
 
 これはXcodeで開くiOS・Mac用の開発用ソースです。通常のインストールには、上記App Storeのリンクをご利用ください。
+
+
+---
+
+# Sales Win Navi — English
+
+Sales Win Navi is a sales activity and customer management app for iPhone, iPad, and Mac.
+
+## Download
+
+[Download Sales Win Navi on the App Store](https://apps.apple.com/jp/app/id6816914462)
+
+## Features
+
+- Customer and deal management
+- Call and sales activity tracking
+- Sales KPI dashboard
+- Follow-up management
+- Sales scripts and objection handling
+- CSV and Excel export
+- Personal Pro subscription features
+
+## Support
+
+For support and inquiries, please visit:
+
+[Sales Win Navi Support](https://note.com/hiroamasong/n/n21179f5475db)
+
+## Important Information
+
+Customer and sales activity data are stored locally on your device.
+
+Automatic synchronization between iPhone and Mac is not currently supported.
+
+Some advanced features require a Personal Pro subscription.
+
+## Developer Information
+
+This repository includes developer resources for Sales Win Navi.
+
+For normal installation, please use the App Store link above.
